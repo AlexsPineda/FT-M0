@@ -1,3 +1,9 @@
+*,
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 h1 {
     color: gold;
 }
@@ -18,3 +24,13 @@ img {
     margin: 50px;
 }
 
+/*.main-section {
+    height: 100vh;
+    background-image: url("main-section.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }*/
